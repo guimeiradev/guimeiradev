@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**guimeiradev/guimeiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about C#, .NET, Angular
 - 📫 How to reach me: gmeira2006@gmail.com
 - 😄 Pronouns: Gui
--->
+
