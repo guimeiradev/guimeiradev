@@ -6,6 +6,8 @@ A software developer from São Paulo,Brasil.
 
 I’m currently working on [Empregos.com.br](empresgos.com.br)
 
+## Social networks and contact
+
 <p >
   
   <a href="https://www.linkedin.com/in/guilhermemeira12/">
