@@ -41,8 +41,40 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
   </a>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-   
+   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />  
+</p>
+
+### Frameworks 🚀
+
+<p>
+   <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  </a>&nbsp;&nbsp;
+   <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://yarnpkg.com/">
+    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://www.postman.com/">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://themes.getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    
 </p>
 
 
