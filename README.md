@@ -1,6 +1,6 @@
-<h4 align="center"> 
-  ## Hi there 👋 I'm Guilherme 👨‍💻
-</h4>
+<h2 align="center"> 
+   Hi there 👋 I'm Guilherme 👨‍💻
+</h2>
 
 
 
