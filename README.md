@@ -30,8 +30,11 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+    <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>&nbsp;&nbsp;
    
 </p>
