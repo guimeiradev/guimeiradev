@@ -15,7 +15,6 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
   <a href="https://www.instagram.com/guimeeira_/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  />        
   </a>&nbsp;&nbsp;
-  
   <img src="https://img.shields.io/badge/gmeira2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />        
 </p>
 
@@ -85,7 +84,6 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
    <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>&nbsp;&nbsp;
-   
    <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -97,13 +95,19 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
    <a href="https://www.mongodb.com/pt-br">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>&nbsp;&nbsp;
-   
    <a href="https://www.elastic.co/pt/what-is/elasticsearch">
     <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   </a>&nbsp;&nbsp;
 
 </p>
+
+### Cloud ☁
+<p>
+    <a href="https://aws.amazon.com/pt/">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>&nbsp;&nbsp;
    
+</p>
     
 
 
