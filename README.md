@@ -6,7 +6,7 @@ A software developer from São Paulo,Brasil.
 
 I’m currently working on [Empregos.com.br](empresgos.com.br)
 
-## Social networks and contact
+## Social Networks & Contact 📱
 
 <p >
   
@@ -16,6 +16,13 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
   <a href="https://www.instagram.com/guimeeira_/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+
+   <a>
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmeira2006@gmail.com&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+   
+   
+   
   
 </p>
 
