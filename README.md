@@ -8,8 +8,7 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
 
 ## Social Networks & Contact 📱
 
-<p >
-  
+<p>
   <a href="https://www.linkedin.com/in/guilhermemeira12/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -18,7 +17,38 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
   </a>&nbsp;&nbsp;
   
   <img src="https://img.shields.io/badge/gmeira2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />        
- 
+</p>
+
+## Languages and frameworks that I work with and have experience
+
+### Languages 👩‍💻
+
+<p>
+     <a href="https://www.oracle.com/br/java/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   
+     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   
+     <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>&nbsp;&nbsp;
+   
+     <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  &nbsp;&nbsp;
+     
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   &nbsp;&nbsp;
+    
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    &nbsp;&nbsp;
+   
 </p>
 
 
@@ -27,12 +57,5 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Empregos.com 
-- 🌱 I’m currently learning C#, Angular, .NET, JavaScript, NodeJs
-- 👯 I’m looking to collaborate on OpenSource projects
-- 💬 Ask me about C#, .NET, Angular
-- 📫 How to reach me: gmeira2006@gmail.com
-- 😄 Pronouns: Gui
 
