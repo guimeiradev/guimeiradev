@@ -18,7 +18,7 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
   </a>&nbsp;&nbsp;
 
    <a>
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmeira2006@gmail.com&logoColor=white" />        
+  [![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natansl@gmail.com)     
   </a>&nbsp;&nbsp;
    
    
