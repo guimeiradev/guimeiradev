@@ -1,6 +1,4 @@
-<h2 align= "center"> 
-   Hi there 👋 I'm Guilherme 👨‍💻
-</h2>
+<h2 align = "center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Guilherme</h2>
 
 A software developer from São Paulo,Brasil.
 
