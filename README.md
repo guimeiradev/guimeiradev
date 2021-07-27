@@ -80,10 +80,8 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
 ### Database ⚡
 
 
-
+- Relational
 <p>
-   - Relational
-   
    <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -94,10 +92,8 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
 </p>
 
 
-
+- Non-relational
 <p>
-   - Non-relational
-   
    <a href="https://www.mongodb.com/pt-br">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>&nbsp;&nbsp;
