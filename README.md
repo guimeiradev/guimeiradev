@@ -16,12 +16,9 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
   <a href="https://www.instagram.com/guimeeira_/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  />        
   </a>&nbsp;&nbsp;
-   
-[![Gmail Badge](https://img.shields.io/badge/-teste-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmeira2006@gmail.com)](gmeira2006@gmail.com)
-
   
-   
-    
+  <img src="https://img.shields.io/badge/gmeira2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />        
+ 
 </p>
 
 
