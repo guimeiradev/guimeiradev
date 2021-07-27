@@ -27,10 +27,10 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
      <a href="https://www.oracle.com/br/java/">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   </a>&nbsp;&nbsp;
-   
-      
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
- 
+     <a href="https://www.oracle.com/br/java/">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+" />
+  </a>&nbsp;&nbsp;
    
 </p>
 
