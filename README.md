@@ -36,6 +36,7 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
     <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
    
 </p>
 
