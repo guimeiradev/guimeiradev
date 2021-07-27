@@ -19,7 +19,7 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
   <img src="https://img.shields.io/badge/gmeira2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />        
 </p>
 
-## Languages and frameworks that I work with and have experience
+## Languages, frameworks, databases and cloud that I work with and have experience
 
 ### Languages 👩‍💻
 
@@ -76,6 +76,37 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
   </a>&nbsp;&nbsp;
     
 </p>
+
+### Database ⚡
+
+- Relational
+
+<p>
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   
+   <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+- Non-relational
+
+<p>
+   <a href="https://www.mongodb.com/pt-br">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   
+   <a href="https://www.elastic.co/pt/what-is/elasticsearch">
+    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+</p>
+   
+    
+
+
 
 
 
