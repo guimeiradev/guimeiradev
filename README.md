@@ -16,7 +16,7 @@ I’m currently working on [Empregos.com.br](empresgos.com.br)
   <img src="https://img.shields.io/badge/gmeira2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />        
 </p>
 
-## Languages, frameworks, databases and cloud that I work with and have experience
+## Languages, frameworks, databases and cloud that I work with and have experience 🧑🏻‍💼
 
 ### Languages 👩‍💻
 
