@@ -2,7 +2,7 @@
 
 A software developer from São Paulo,Brasil.
 
-I’m currently working on [Empregos.com.br](https://www.empregos.com.br/)
+
 
 ## Social Networks & Contact 📱
 
